@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @boda89
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Dockers
-- 💞️ I’m looking to collaborate on DevOps learing roadmap
+- 🌱 I’m currently learning Dockers and K8s
+- 💞️ I’m looking to collaborate on DevOps/SRE learing roadmap
 - 📫 How to reach me abdalrahim.mansour@gmail.com
 
 <!---
